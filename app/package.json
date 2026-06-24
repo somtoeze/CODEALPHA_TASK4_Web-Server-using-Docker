@@ -1,0 +1,9 @@
+{
+  "name": "codealpha-task4",
+  "version": "1.0.0",
+  "author": "Eze Somtochukwu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
